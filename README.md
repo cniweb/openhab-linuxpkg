@@ -1,4 +1,6 @@
 # openhab-linuxpkg
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-linuxpkg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-linuxpkg?ref=badge_shield)
+
 
 Repo for Linux deb packages
 
@@ -88,3 +90,7 @@ you will find two packages in build/distributions named **openhab2-offline_2.0.0
 ```bash
 ./gradlew download-openhab2-online-b4
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-linuxpkg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcniweb%2Fopenhab-linuxpkg?ref=badge_large)
